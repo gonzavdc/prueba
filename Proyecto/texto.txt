@@ -1,0 +1,6 @@
+Nombre Empresa :peroCantidad Conteneres disponibles : 1
+Contenedores de la empresa :
+Contenedor N° 1
+Capacidad Maxima : 3.0
+Agua Restante :  3.0
+Limite bajo nivel : 0.6000000000000001

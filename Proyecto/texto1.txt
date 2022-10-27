@@ -1,0 +1,10 @@
+Nombre Empresa :pepCantidad Contenedores disponibles : 2
+Contenedores de la empresa :
+Contenedor N° 1
+Capacidad Maxima : 2.0
+Agua Restante :  1.0
+Limite bajo nivel : 0.4
+Contenedor N° 2
+Capacidad Maxima : 2.0
+Agua Restante :  1.0
+Limite bajo nivel : 0.4
