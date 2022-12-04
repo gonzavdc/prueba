@@ -1,0 +1,14 @@
+Cantidad de casas :3
+Casas:
+Casa N° 1
+Cantidad de habitantes en casa : 2
+Direccion :  asd
+Contacto : 31
+Casa N° 2
+Cantidad de habitantes en casa : 2
+Direccion :  a
+Contacto : 5
+Casa N° 3
+Cantidad de habitantes en casa : 1
+Direccion :  asd
+Contacto : 123

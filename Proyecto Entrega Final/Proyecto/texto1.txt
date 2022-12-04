@@ -1,0 +1,6 @@
+Nombre Empresa :perroCantidad Contenedores disponibles : 1
+Contenedores de la empresa :
+Contenedor N° 1
+Capacidad Maxima : 1.0
+Agua Restante :  1.0
+Limite bajo nivel : 0.2
